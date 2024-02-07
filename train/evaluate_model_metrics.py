@@ -2,9 +2,16 @@
 """
 Created on Fri Feb  2 15:08:32 2024
 
-@author: MNA
+@author: Michaela Alksne
 
-Script that allows user to evaluate model training preformance on train and validation datasets
+This script allows a user to evaluate model training preformance on train and validation datasets. 
+Here we generate predictions for train and validation datasets from each epoch of the model. 
+This allows us to visualize how model preformance improves/changes over each epoch. 
+Here we plot mean average precision, which is the area under a precision-recall curve. 
+This is a commonly used metric to evaluate preformance. 
+During training, loss is computed to guide backpropagation and adjust weights, and mean average precision is computed and used to select the best model. 
+This script allows the user to plot mean average precision per epoch after training is complete. 
+This is simply a visualization tool and allows you to understand your model better.
 
 """
 
