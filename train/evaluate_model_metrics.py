@@ -29,9 +29,15 @@ import random
 from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, average_precision_score
 
+from config import repo_path, xwavs_path
 
-train_clips = pd.read_csv(repo_path/labeled_data/train_val_test_clips/train_clips.csv', index_col=[0,1,2]) 
-val_clips = pd.read_csv(repo_path/labeled_data/train_val_test_clips/val_clips.csv', index_col=[0,1,2]) 
+train_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'train_clips.csv')
+train_clips['file'] = str(xwavs_path) + '/' + train_clips['file']
+train_clips.set_index(['file', 'start_time', 'end_time'], inplace=True)
+
+val_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'val_clips.csv')
+val_clips['file'] = str(xwavs_path) + '/' + val_clips['file']
+val_clips.set_index(['file', 'start_time', 'end_time'], inplace=True)
 
 # Load train and validation datasets
 
@@ -44,7 +50,7 @@ val_ap_B_history = []
 # Iterate over each epoch of the saved model
 for epoch in range(11):  # assuming you have 11 epochs
     # Load the model for the current epoch
-    model_path = repo_path/train/model_states/epoch-{epoch}.model'
+    model_path = repo_path/'train'/'model_states'/f'epoch-{epoch}.model'
     model = opensoundscape.ml.cnn.load_model(model_path)
     
     # Make predictions on the training dataset
