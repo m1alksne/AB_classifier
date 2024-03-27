@@ -1,545 +1,545 @@
 audio_file,annotation,high_f,low_f,start_time,end_time
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,69,35,227429.204,227433.727
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,83,61,227520.121,227521.832
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,56,227567.333,227568.311
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,61,32,228042.482,228048.288
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,58,37,228067.845,228070.534
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,37,228129.51,228130.793
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,67,31,228690.206,228693.934
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,60,38,228923.445,228925.584
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,70,31,229074.277,229077.7
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,74,40,229107.455,229109.655
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,45,26,229549.388,229551.832
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,64,36,229588.678,229591.428
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,68,27,229713.811,229717.539
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,54,12,229818.631,229835.988
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,72,35,229902.176,229905.537
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,60,31,229921.55,229924.85
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,60,31,229921.55,229924.85
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,61,48,230074.667,230076.623
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,61,48,230074.667,230076.623
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,72,35,230123.751,230127.112
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,45,27,230154.667,230157.234
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,45,31,230159.434,230161.39
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,66,45,230166.279,230170.985
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,62,38,230471.099,230473.238
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,42,230484.668,230485.584
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,78,47,230519.472,230521.55
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,66,30,230582.688,230586.477
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,63,27,230682.406,230686.867
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,69,38,230723.788,230726.844
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,71,37,231282.528,231285.462
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,52,20,231308.777,231311.955
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,72,41,231323.445,231327.051
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,61,40,231350.45,231357.112
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,97,62,231358.823,231359.984
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,72,38,231832.368,231835.241
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,63,23,232211.612,232214.423
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,42,232339.204,232340.305
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,58,45,232397.188,232398.41
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,63,45,232466.172,232467.089
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,80,32,232696.661,232698.189
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,59,232792.734,232793.59
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,49,232688.02,232689.12
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,58,47,232699.082,232700.366
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,42,232816.295,232817.822
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,232849.548,232852.176
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,19,232897.662,232900.596
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,57,42,233061.024,233062.063
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,23,233060.474,233063.163
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,233082.123,233084.629
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,62,45,233172.406,233173.872
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,233514.911,233517.112
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,233529.274,233531.046
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,23,14,233547.234,233549.312
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,233560.389,233562.223
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,233560.389,233562.223
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,17,233603.872,233605.828
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,233620.313,233622.024
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,16,233664.507,233666.28
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,233683.093,233685.232
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,57,34,233816.477,233818.189
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,53,29,233823.506,233824.789
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,234671.291,234673.735
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,63,30,235028.555,235030.572
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,235106.699,235109.449
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,75,56,235286.623,235288.029
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,237874.353,237876.125
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,18,237901.856,237903.751
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,71,21,238644.399,238647.516
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,55,241255.767,241257.112
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,49,242297.112,242298.517
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,57,242514.767,242516.112
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,46,242520.084,242521.184
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,57,243093.141,243094.057
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,51,243125.905,243126.761
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,64,49,243126.822,243127.555
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,78,67,243387.946,243388.801
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,63,243450.673,243451.773
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,67,51,243480.978,243481.834
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,13,243501.138,243515.439
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,19,245357.02,245358.915
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,18,245404.875,245407.014
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,61,47,245395.218,245396.135
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,61,47,245395.218,245396.135
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,245441.1,245443.361
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,26,245464.095,245466.295
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,26,245464.095,245466.295
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,25,245481.575,245483.592
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,17,245493.423,245495.562
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,245502.774,245504.607
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,20,245520.917,245522.872
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,19,245524.523,245526.845
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,21,245530.145,245531.673
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,22,245544.377,245546.027
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,58,245597.739,245598.655
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,96,51,245663.018,245664.424
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,21,245634.782,245636.188
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,52,245897.861,245899.267
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,20,245963.789,245965.928
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,20,245977.418,245980.107
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,21,245994.767,245997.334
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,53,246079.465,246080.565
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,53,246079.465,246080.565
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,66,52,246112.102,246113.202
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,54,13,246148.548,246161.75
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,20,246335.393,246337.716
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,38,21,246385.44,246387.335
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,21,246530.955,246533.339
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,72,33,246787.983,246791.1
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,63,25,246798.373,246801.368
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,80,38,247368.519,247372.247
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,79,56,247385.317,247387.823
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,70,33,247400.879,247403.079
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,83,32,247538.166,247544.889
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,65,32,247867.884,247870.818
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,59,32,247877.48,247880.352
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,73,38,247909.793,247913.216
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,75,34,249411.368,249413.996
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,76,40,249846.86,249849.61
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,75,25,249884.011,249886.944
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,93,38,249995.722,249999.634
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,84,44,250008.068,250010.635
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,76,36,250090.748,250094.537
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,83,43,250139.733,250143.522
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,84,36,250146.272,250150.123
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,84,44,251008.984,251013.079
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,75,49,251260.65,251263.705
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,74,38,251268.962,251272.384
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,79,37,251274.218,251277.946
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,78,43,251304.278,251307.823
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,78,43,251304.278,251307.823
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,80,53,251516.333,251518.044
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,65,47,252019.243,252021.199
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,65,47,252019.243,252021.199
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,84,36,252040.573,252043.996
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,67,33,252168.007,252170.574
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,50,256741.651,256743.056
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,89,78,257084.499,257101.246
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,83,65,258147.785,258149.252
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,76,258778.571,258801.368
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,13,258831.345,258848.763
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,53,258953.903,258955.125
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,83,67,259001.88,259002.98
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,14,258998.449,259016.601
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,75,63,259069.732,259070.955
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,59,259114.377,259115.355
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,12,259730.306,259743.263
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,67,12,259867.616,259885.585
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,80,37,260032.14,260034.829
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,77,260893.583,260911.307
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,65,27,260944.989,260961.857
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,78,261675.967,261694.057
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,94,55,261669.916,261670.771
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,81,27,261725.844,261743.446
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,70,50,261772.835,261774.241
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,57,262239.855,262240.955
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,262511.75,262531.429
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,46,263843.414,263844.453
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,57,263944.523,263945.623
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,79,264206.065,264224.278
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,90,79,264206.065,264224.278
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,66,52,264389.244,264390.405
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,64,44,264817.372,264819.022
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,76,265025.416,265044.607
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,84,12,265076.211,265092.59
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,77,265144.622,265164.546
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,14,265196.004,265210.062
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,76,265403.827,265423.69
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,82,13,265454.133,265474.362
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,60,43,265773.361,265774.645
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,76,265951.566,265969.84
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,82,12,266001.711,266017.663
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,77,266687.716,266708.007
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,94,77,266687.716,266708.007
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,75,266821.321,266839.718
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,82,12,266870.673,266888.825
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,77,266980.32,266998.961
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,100,11,267030.588,267048.251
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,75,267131.665,267153.301
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,100,10,267182.582,267201.406
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,72,267268.915,267291.1
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,97,11,267320.565,267340.795
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,55,11,267817.203,267864.936
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,55,11,267817.203,267864.936
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,267889.732,267910.452
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,77,267976.945,267996.93
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,268026.738,268047.578
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,76,268145.6,268166.013
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,95,76,268145.6,268166.013
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,83,11,268195.233,268215.158
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,106,9,268324.415,268343.3
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,76,268434.561,268454.057
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,268484.339,268505.547
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,75,268569.488,268591.063
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,84,13,268620.16,268641.123
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,74,268714.537,268733.973
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,84,12,268764.156,268781.819
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,98,76,268891.2,268911.613
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,103,9,268941.956,268961.697
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,77,269021.543,269040.184
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,77,269021.543,269040.184
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,80,56,269319.695,269322.628
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,102,12,269364.927,269384.057
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,76,269457.64,269476.586
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,269508.12,269525.416
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,76,269624.538,269644.462
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,12,269674.622,269692.896
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,77,269780.428,269798.825
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,11,269829.916,269848.984
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,77,269912.727,269930.635
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,68,12,269960.405,269981.001
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,77,270094.378,270112.713
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,55,14,270141.787,270160.306
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,88,80,270230.551,270237.518
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,88,80,270230.551,270237.518
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,12,270444.462,270465.853
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,53,12,270444.462,270465.853
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,12,270601.971,270619.573
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,82,47,270626.479,270629.351
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,270650.978,270652.811
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,270650.978,270652.811
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,270685.417,270687.617
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,270701.491,270703.446
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,270701.491,270703.446
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,13,270937.005,270938.839
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,270953.385,270955.218
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,17,270967.372,270969.45
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,78,270979.488,270998.251
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,15,271001.063,271002.591
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,17,271014.866,271016.944
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,23,13,271047.372,271049.756
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,271063.324,271065.341
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271025.859,271044.255
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,63,36,271032.398,271035.454
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271253.155,271271.612
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271253.155,271271.612
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,271441.971,271444.049
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,271441.971,271444.049
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,19,271505.952,271507.663
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,50,10,271632.704,271650.978
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,79,271715.317,271734.447
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,21,271680.725,271682.742
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,21,13,271693.071,271694.476
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,21,13,271693.071,271694.476
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,13,271764.255,271781.918
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,91,79,271945.195,271962.919
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,271965.318,271967.273
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,30,19,271965.318,271967.273
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271942.643,271959.817
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,272006.051,272008.006
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,272056.493,272058.266
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,272072.017,272073.789
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,15,272090.932,272092.521
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,272104.745,272106.15
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,28,18,272104.745,272106.15
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,91,79,272622.544,272641.185
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,65,12,272672.398,272690.856
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,76,41,274267.142,274270.443
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,81,58,277782.919,277783.958
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,82,58,277782.919,277784.08
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,13,277978.266,278002.407
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,88,77,278231.505,278241.834
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,12,278277.25,278296.868
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,53,13,278416.639,278435.402
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,19,278762.07,278764.025
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,36,21,278801.429,278803.202
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,278806.38,278809.558
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,279040.0,279042.017
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,279056.441,279058.03
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,279306.907,279309.29
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,279333.789,279335.623
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,279365.355,279367.739
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,279380.513,279381.979
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,279413.3,279414.889
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,279465.402,279467.236
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,279762.361,279764.683
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,279762.361,279764.683
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,33,21,279799.206,279801.528
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,279970.076,279971.543
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,20,280006.319,280007.663
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,50,12,280053.668,280069.436
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,280104.133,280105.539
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,21,280158.007,280161.124
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,22,280197.8,280199.206
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,22,280197.8,280199.206
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,280303.399,280305.6
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,280303.399,280305.6
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,280370.344,280372.055
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,21,280409.695,280411.772
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,280414.462,280416.723
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,280432.369,280434.386
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,280432.369,280434.386
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,14,280458.044,280462.873
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,61,32,280434.514,280437.204
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,280492.681,280494.759
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,280517.617,280519.451
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,280517.617,280519.451
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,280545.981,280549.037
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,280545.981,280549.037
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,18,280579.718,280581.124
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,67,33,280580.207,280584.913
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,67,13,280600.993,280619.022
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,17,280628.434,280630.268
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,280641.635,280644.325
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,17,280657.876,280660.504
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,17,280657.876,280660.504
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,30,16,280670.16,280672.055
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,90,78,280678.411,280692.59
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,67,13,280726.456,280744.424
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,280749.802,280752.797
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,46,280720.344,280721.383
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,68,46,280720.344,280721.383
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,280856.356,280858.801
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,36,17,280892.361,280896.334
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,14,280910.696,280913.63
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,20,280916.502,280918.947
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,280923.775,280926.159
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,280963.103,280966.097
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,32,17,280963.103,280966.097
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,65,38,281028.763,281031.819
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,21,280988.487,280990.748
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,21,280988.487,280990.748
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,281041.482,281043.804
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,281041.482,281043.804
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,17,281109.596,281113.141
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,17,281109.596,281113.141
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,16,281125.882,281128.021
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,281156.624,281159.741
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,68,35,281141.1,281143.423
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,68,35,281141.1,281143.423
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,19,281186.042,281188.181
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,13,281232.247,281235.18
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,17,281271.223,281274.218
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,28,281420.809,281437.433
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,52,28,281420.809,281437.433
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,72,34,281415.431,281419.709
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,16,281446.906,281448.984
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,16,281446.906,281448.984
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,281463.102,281464.691
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,281470.207,281472.407
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,281477.297,281478.825
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,281501.688,281503.216
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,281501.688,281503.216
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,16,281535.966,281537.922
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,19,281566.953,281568.97
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,69,42,281515.126,281518.609
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,69,42,281515.126,281518.609
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,67,33,281539.267,281542.506
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,70,30,281575.722,281578.778
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,281590.603,281592.803
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,281590.603,281592.803
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,21,281623.056,281624.889
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,17,281621.528,281623.973
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,33,17,281638.336,281641.147
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,52,27,281674.462,281677.579
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,52,27,281674.462,281677.579
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,51,21,281679.107,281681.612
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,25,281683.262,281685.829
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,281678.487,281680.504
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,281692.849,281695.233
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,281707.396,281709.596
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,281707.396,281709.596
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,281719.68,281722.553
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,281758.105,281760.489
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,41,281844.179,281846.257
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,69,26,281913.155,281916.822
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,69,26,281913.155,281916.822
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,77,282035.012,282052.247
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,282000.908,282003.414
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,282014.293,282016.982
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,21,282030.795,282033.728
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,282048.03,282050.535
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,282087.777,282090.1
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,282127.128,282129.083
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,15,282139.412,282141.673
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,72,40,282128.181,282131.971
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,72,40,282128.181,282131.971
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,58,43,282122.375,282124.514
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,282255.196,282257.701
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,282255.196,282257.701
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,36,19,282274.462,282277.151
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,282519.878,282522.078
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,89,77,282553.95,282569.168
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,18,282553.277,282555.6
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,19,282581.467,282584.645
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,282587.701,282589.962
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,35,18,282638.533,282641.1
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,77,283042.299,283057.212
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,90,77,283042.299,283057.212
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,57,29,283043.95,283048.167
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,49,26,283234.401,283238.618
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,50,25,283242.957,283245.646
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,50,25,283242.957,283245.646
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,69,47,283270.94,283273.201
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,69,47,283270.94,283273.201
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,283327.8,283328.594
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,78,283617.777,283636.478
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,92,78,283617.777,283636.478
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,68,12,283667.984,283685.158
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,65,35,283860.367,283862.811
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,80,37,283907.908,283911.086
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,91,79,283952.14,283969.191
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,68,26,284000.649,284017.395
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,68,26,284000.649,284017.395
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,67,27,284133.216,284149.962
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,71,35,284243.385,284246.929
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,71,35,284243.385,284246.929
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,47,26,284273.338,284275.783
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,47,26,284273.338,284275.783
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,79,284361.222,284378.702
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,53,284340.015,284341.115
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,71,53,284340.015,284341.115
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,75,41,284415.539,284419.634
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,71,42,284423.362,284426.846
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,284448.365,284450.32
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,17,284464.561,284465.905
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,284478.801,284480.513
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,284510.466,284511.933
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,55,284510.16,284511.444
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,16,284529.098,284530.626
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,284542.055,284544.072
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,33,18,284542.055,284544.072
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,68,53,284604.767,284605.806
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,91,78,284629.343,284645.784
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,89,34,284676.333,284681.1
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,89,34,284676.333,284681.1
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,50,12,284678.304,284694.255
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,13,284731.161,284732.628
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,37,17,284745.402,284747.968
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,67,39,284739.168,284741.49
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,77,284754.5,284770.512
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,284777.724,284779.558
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,284789.878,284791.834
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,284789.878,284791.834
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,16,284821.284,284823.056
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,15,284807.838,284808.999
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,15,284807.838,284808.999
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,28,17,284836.502,284838.396
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,52,13,284803.437,284822.323
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,93,80,284896.639,284913.018
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,16,284920.413,284922.124
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,16,284934.416,284936.372
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,284955.929,284958.374
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,284969.741,284971.758
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,13,284946.945,284965.646
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,15,284955.99,284958.251
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,284987.739,284989.328
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,19,285001.552,285003.263
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,18,285003.874,285005.158
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285018.534,285019.878
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285018.534,285019.878
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,285034.302,285036.135
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,285178.091,285179.68
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,14,285204.5,285207.005
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,16,285218.006,285220.084
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,17,285248.007,285250.146
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,285263.408,285265.975
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,285263.408,285265.975
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,50,285329.083,285330.0
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,50,285329.083,285330.0
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,12,285350.099,285367.762
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,285393.804,285396.249
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,285393.804,285396.249
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,285440.856,285443.117
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,285462.675,285464.508
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,285477.151,285479.29
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,285477.151,285479.29
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,12,285480.757,285498.114
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,51,12,285480.757,285498.114
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,18,285508.984,285511.49
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,285547.861,285549.817
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,13,285567.602,285569.13
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,13,285567.602,285569.13
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,285610.734,285612.445
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,20,285619.84,285622.041
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,57,29,285621.307,285624.669
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,13,285606.211,285619.351
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,91,76,285694.256,285711.552
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,91,76,285694.256,285711.552
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,66,12,285745.195,285763.103
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,285777.387,285779.281
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,285800.856,285802.873
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,285800.856,285802.873
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,17,285846.823,285848.595
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,285869.375,285871.575
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,285869.375,285871.575
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,285901.139,285903.217
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,15,285920.024,285921.735
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,285934.508,285936.464
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,285941.711,285942.995
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,285955.157,285956.929
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285970.0,285972.75
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285970.0,285972.75
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,286005.416,286007.372
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,286025.829,286028.58
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,286025.829,286028.58
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,16,286155.058,286156.892
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286169.198,286171.215
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286169.198,286171.215
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286214.364,286215.831
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,29,18,286214.364,286215.831
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,70,38,286307.044,286310.467
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,286432.903,286434.798
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,286461.75,286464.134
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,286461.75,286464.134
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,14,286480.758,286483.141
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,57,34,286788.595,286790.673
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,286884.492,286886.448
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,286904.294,286906.372
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,286904.294,286906.372
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,286937.12,286938.832
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,286950.811,286953.133
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,286950.811,286953.133
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286978.191,286979.903
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,15,287027.35,287028.756
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,287040.429,287042.324
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,31,18,287040.429,287042.324
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,31,18,287040.429,287042.324
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,287069.795,287071.384
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,287088.007,287089.719
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,287139.955,287142.094
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,287139.955,287142.094
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,13,287189.589,287191.483
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,287545.738,287548.488
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,287545.738,287548.488
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,32,18,287579.169,287581.492
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,68,53,287565.785,287566.579
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,19,287630.613,287632.507
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,68,26,287611.116,287615.7
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,68,26,287611.116,287615.7
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,82,36,287634.647,287638.802
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,29,287663.339,287665.784
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,20,287663.217,287664.928
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,29,287729.856,287729.917
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,62,25,287718.672,287723.683
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,68,43,287762.056,287765.112
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,20,287797.106,287798.878
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,20,288200.91,288202.865
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,20,288200.91,288202.865
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,288213.011,288214.783
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,20,288473.049,288474.699
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,20,288473.049,288474.699
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,47,290898.144,290899.795
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,80,50,291681.812,291684.562
-L:\HARP_CNN\AB_classifier\labeled_data\xwavs\SOCAL34N_sitN_090722_200000.x.wav,D,71,49,291831.986,291834.248
+SOCAL34N_sitN_090722_200000.x.wav,D,69,35,227429.204,227433.727
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,83,61,227520.121,227521.832
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,56,227567.333,227568.311
+SOCAL34N_sitN_090722_200000.x.wav,D,61,32,228042.482,228048.288
+SOCAL34N_sitN_090722_200000.x.wav,D,58,37,228067.845,228070.534
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,37,228129.51,228130.793
+SOCAL34N_sitN_090722_200000.x.wav,D,67,31,228690.206,228693.934
+SOCAL34N_sitN_090722_200000.x.wav,D,60,38,228923.445,228925.584
+SOCAL34N_sitN_090722_200000.x.wav,D,70,31,229074.277,229077.7
+SOCAL34N_sitN_090722_200000.x.wav,D,74,40,229107.455,229109.655
+SOCAL34N_sitN_090722_200000.x.wav,D,45,26,229549.388,229551.832
+SOCAL34N_sitN_090722_200000.x.wav,D,64,36,229588.678,229591.428
+SOCAL34N_sitN_090722_200000.x.wav,D,68,27,229713.811,229717.539
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,54,12,229818.631,229835.988
+SOCAL34N_sitN_090722_200000.x.wav,D,72,35,229902.176,229905.537
+SOCAL34N_sitN_090722_200000.x.wav,D,60,31,229921.55,229924.85
+SOCAL34N_sitN_090722_200000.x.wav,D,60,31,229921.55,229924.85
+SOCAL34N_sitN_090722_200000.x.wav,D,61,48,230074.667,230076.623
+SOCAL34N_sitN_090722_200000.x.wav,D,61,48,230074.667,230076.623
+SOCAL34N_sitN_090722_200000.x.wav,D,72,35,230123.751,230127.112
+SOCAL34N_sitN_090722_200000.x.wav,D,45,27,230154.667,230157.234
+SOCAL34N_sitN_090722_200000.x.wav,D,45,31,230159.434,230161.39
+SOCAL34N_sitN_090722_200000.x.wav,D,66,45,230166.279,230170.985
+SOCAL34N_sitN_090722_200000.x.wav,D,62,38,230471.099,230473.238
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,42,230484.668,230485.584
+SOCAL34N_sitN_090722_200000.x.wav,D,78,47,230519.472,230521.55
+SOCAL34N_sitN_090722_200000.x.wav,D,66,30,230582.688,230586.477
+SOCAL34N_sitN_090722_200000.x.wav,D,63,27,230682.406,230686.867
+SOCAL34N_sitN_090722_200000.x.wav,D,69,38,230723.788,230726.844
+SOCAL34N_sitN_090722_200000.x.wav,D,71,37,231282.528,231285.462
+SOCAL34N_sitN_090722_200000.x.wav,D,52,20,231308.777,231311.955
+SOCAL34N_sitN_090722_200000.x.wav,D,72,41,231323.445,231327.051
+SOCAL34N_sitN_090722_200000.x.wav,D,61,40,231350.45,231357.112
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,97,62,231358.823,231359.984
+SOCAL34N_sitN_090722_200000.x.wav,D,72,38,231832.368,231835.241
+SOCAL34N_sitN_090722_200000.x.wav,D,63,23,232211.612,232214.423
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,42,232339.204,232340.305
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,58,45,232397.188,232398.41
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,63,45,232466.172,232467.089
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,80,32,232696.661,232698.189
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,59,232792.734,232793.59
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,49,232688.02,232689.12
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,58,47,232699.082,232700.366
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,42,232816.295,232817.822
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,232849.548,232852.176
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,19,232897.662,232900.596
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,57,42,233061.024,233062.063
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,23,233060.474,233063.163
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,233082.123,233084.629
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,62,45,233172.406,233173.872
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,233514.911,233517.112
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,233529.274,233531.046
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,23,14,233547.234,233549.312
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,233560.389,233562.223
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,233560.389,233562.223
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,17,233603.872,233605.828
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,233620.313,233622.024
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,16,233664.507,233666.28
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,233683.093,233685.232
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,57,34,233816.477,233818.189
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,53,29,233823.506,233824.789
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,234671.291,234673.735
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,63,30,235028.555,235030.572
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,235106.699,235109.449
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,75,56,235286.623,235288.029
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,237874.353,237876.125
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,18,237901.856,237903.751
+SOCAL34N_sitN_090722_200000.x.wav,D,71,21,238644.399,238647.516
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,55,241255.767,241257.112
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,49,242297.112,242298.517
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,57,242514.767,242516.112
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,46,242520.084,242521.184
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,57,243093.141,243094.057
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,51,243125.905,243126.761
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,64,49,243126.822,243127.555
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,78,67,243387.946,243388.801
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,63,243450.673,243451.773
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,67,51,243480.978,243481.834
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,13,243501.138,243515.439
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,19,245357.02,245358.915
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,18,245404.875,245407.014
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,61,47,245395.218,245396.135
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,61,47,245395.218,245396.135
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,245441.1,245443.361
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,26,245464.095,245466.295
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,26,245464.095,245466.295
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,25,245481.575,245483.592
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,17,245493.423,245495.562
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,245502.774,245504.607
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,20,245520.917,245522.872
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,19,245524.523,245526.845
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,21,245530.145,245531.673
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,22,245544.377,245546.027
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,58,245597.739,245598.655
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,96,51,245663.018,245664.424
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,21,245634.782,245636.188
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,52,245897.861,245899.267
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,20,245963.789,245965.928
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,20,245977.418,245980.107
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,21,245994.767,245997.334
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,53,246079.465,246080.565
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,53,246079.465,246080.565
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,66,52,246112.102,246113.202
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,54,13,246148.548,246161.75
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,20,246335.393,246337.716
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,38,21,246385.44,246387.335
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,21,246530.955,246533.339
+SOCAL34N_sitN_090722_200000.x.wav,D,72,33,246787.983,246791.1
+SOCAL34N_sitN_090722_200000.x.wav,D,63,25,246798.373,246801.368
+SOCAL34N_sitN_090722_200000.x.wav,D,80,38,247368.519,247372.247
+SOCAL34N_sitN_090722_200000.x.wav,D,79,56,247385.317,247387.823
+SOCAL34N_sitN_090722_200000.x.wav,D,70,33,247400.879,247403.079
+SOCAL34N_sitN_090722_200000.x.wav,D,83,32,247538.166,247544.889
+SOCAL34N_sitN_090722_200000.x.wav,D,65,32,247867.884,247870.818
+SOCAL34N_sitN_090722_200000.x.wav,D,59,32,247877.48,247880.352
+SOCAL34N_sitN_090722_200000.x.wav,D,73,38,247909.793,247913.216
+SOCAL34N_sitN_090722_200000.x.wav,D,75,34,249411.368,249413.996
+SOCAL34N_sitN_090722_200000.x.wav,D,76,40,249846.86,249849.61
+SOCAL34N_sitN_090722_200000.x.wav,D,75,25,249884.011,249886.944
+SOCAL34N_sitN_090722_200000.x.wav,D,93,38,249995.722,249999.634
+SOCAL34N_sitN_090722_200000.x.wav,D,84,44,250008.068,250010.635
+SOCAL34N_sitN_090722_200000.x.wav,D,76,36,250090.748,250094.537
+SOCAL34N_sitN_090722_200000.x.wav,D,83,43,250139.733,250143.522
+SOCAL34N_sitN_090722_200000.x.wav,D,84,36,250146.272,250150.123
+SOCAL34N_sitN_090722_200000.x.wav,D,84,44,251008.984,251013.079
+SOCAL34N_sitN_090722_200000.x.wav,D,75,49,251260.65,251263.705
+SOCAL34N_sitN_090722_200000.x.wav,D,74,38,251268.962,251272.384
+SOCAL34N_sitN_090722_200000.x.wav,D,79,37,251274.218,251277.946
+SOCAL34N_sitN_090722_200000.x.wav,D,78,43,251304.278,251307.823
+SOCAL34N_sitN_090722_200000.x.wav,D,78,43,251304.278,251307.823
+SOCAL34N_sitN_090722_200000.x.wav,D,80,53,251516.333,251518.044
+SOCAL34N_sitN_090722_200000.x.wav,D,65,47,252019.243,252021.199
+SOCAL34N_sitN_090722_200000.x.wav,D,65,47,252019.243,252021.199
+SOCAL34N_sitN_090722_200000.x.wav,D,84,36,252040.573,252043.996
+SOCAL34N_sitN_090722_200000.x.wav,D,67,33,252168.007,252170.574
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,50,256741.651,256743.056
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,89,78,257084.499,257101.246
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,83,65,258147.785,258149.252
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,76,258778.571,258801.368
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,13,258831.345,258848.763
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,53,258953.903,258955.125
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,83,67,259001.88,259002.98
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,14,258998.449,259016.601
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,75,63,259069.732,259070.955
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,72,59,259114.377,259115.355
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,12,259730.306,259743.263
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,67,12,259867.616,259885.585
+SOCAL34N_sitN_090722_200000.x.wav,D,80,37,260032.14,260034.829
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,77,260893.583,260911.307
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,65,27,260944.989,260961.857
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,78,261675.967,261694.057
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,94,55,261669.916,261670.771
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,81,27,261725.844,261743.446
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,70,50,261772.835,261774.241
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,57,262239.855,262240.955
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,262511.75,262531.429
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,46,263843.414,263844.453
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,57,263944.523,263945.623
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,79,264206.065,264224.278
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,90,79,264206.065,264224.278
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,66,52,264389.244,264390.405
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,64,44,264817.372,264819.022
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,76,265025.416,265044.607
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,84,12,265076.211,265092.59
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,77,265144.622,265164.546
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,14,265196.004,265210.062
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,76,265403.827,265423.69
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,82,13,265454.133,265474.362
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,60,43,265773.361,265774.645
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,76,265951.566,265969.84
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,82,12,266001.711,266017.663
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,77,266687.716,266708.007
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,94,77,266687.716,266708.007
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,75,266821.321,266839.718
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,82,12,266870.673,266888.825
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,77,266980.32,266998.961
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,100,11,267030.588,267048.251
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,75,267131.665,267153.301
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,100,10,267182.582,267201.406
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,72,267268.915,267291.1
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,97,11,267320.565,267340.795
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,55,11,267817.203,267864.936
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,55,11,267817.203,267864.936
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,267889.732,267910.452
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,77,267976.945,267996.93
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,268026.738,268047.578
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,76,268145.6,268166.013
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,95,76,268145.6,268166.013
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,83,11,268195.233,268215.158
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,106,9,268324.415,268343.3
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,95,76,268434.561,268454.057
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,268484.339,268505.547
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,75,268569.488,268591.063
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,84,13,268620.16,268641.123
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,74,268714.537,268733.973
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,84,12,268764.156,268781.819
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,98,76,268891.2,268911.613
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,103,9,268941.956,268961.697
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,77,269021.543,269040.184
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,96,77,269021.543,269040.184
+SOCAL34N_sitN_090722_200000.x.wav,D,80,56,269319.695,269322.628
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,102,12,269364.927,269384.057
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,76,269457.64,269476.586
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,83,11,269508.12,269525.416
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,76,269624.538,269644.462
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,12,269674.622,269692.896
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,94,77,269780.428,269798.825
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,11,269829.916,269848.984
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,77,269912.727,269930.635
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,68,12,269960.405,269981.001
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,77,270094.378,270112.713
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,55,14,270141.787,270160.306
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,88,80,270230.551,270237.518
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,88,80,270230.551,270237.518
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,12,270444.462,270465.853
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,53,12,270444.462,270465.853
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,12,270601.971,270619.573
+SOCAL34N_sitN_090722_200000.x.wav,D,82,47,270626.479,270629.351
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,270650.978,270652.811
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,270650.978,270652.811
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,270685.417,270687.617
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,270701.491,270703.446
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,270701.491,270703.446
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,13,270937.005,270938.839
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,270953.385,270955.218
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,17,270967.372,270969.45
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,78,270979.488,270998.251
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,15,271001.063,271002.591
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,17,271014.866,271016.944
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,23,13,271047.372,271049.756
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,271063.324,271065.341
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271025.859,271044.255
+SOCAL34N_sitN_090722_200000.x.wav,D,63,36,271032.398,271035.454
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271253.155,271271.612
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271253.155,271271.612
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,271441.971,271444.049
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,271441.971,271444.049
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,19,271505.952,271507.663
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,50,10,271632.704,271650.978
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,79,271715.317,271734.447
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,21,271680.725,271682.742
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,21,13,271693.071,271694.476
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,21,13,271693.071,271694.476
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,13,271764.255,271781.918
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,91,79,271945.195,271962.919
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,271965.318,271967.273
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,30,19,271965.318,271967.273
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,12,271942.643,271959.817
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,272006.051,272008.006
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,272056.493,272058.266
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,272072.017,272073.789
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,15,272090.932,272092.521
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,272104.745,272106.15
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,28,18,272104.745,272106.15
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,91,79,272622.544,272641.185
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,65,12,272672.398,272690.856
+SOCAL34N_sitN_090722_200000.x.wav,D,76,41,274267.142,274270.443
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,81,58,277782.919,277783.958
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,82,58,277782.919,277784.08
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,13,277978.266,278002.407
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,88,77,278231.505,278241.834
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,12,278277.25,278296.868
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,53,13,278416.639,278435.402
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,19,278762.07,278764.025
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,36,21,278801.429,278803.202
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,278806.38,278809.558
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,279040.0,279042.017
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,279056.441,279058.03
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,279306.907,279309.29
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,279333.789,279335.623
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,279365.355,279367.739
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,279380.513,279381.979
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,279413.3,279414.889
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,279465.402,279467.236
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,279762.361,279764.683
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,279762.361,279764.683
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,33,21,279799.206,279801.528
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,279970.076,279971.543
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,20,280006.319,280007.663
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,50,12,280053.668,280069.436
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,280104.133,280105.539
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,21,280158.007,280161.124
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,22,280197.8,280199.206
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,22,280197.8,280199.206
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,280303.399,280305.6
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,280303.399,280305.6
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,280370.344,280372.055
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,21,280409.695,280411.772
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,280414.462,280416.723
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,280432.369,280434.386
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,20,280432.369,280434.386
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,14,280458.044,280462.873
+SOCAL34N_sitN_090722_200000.x.wav,D,61,32,280434.514,280437.204
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,280492.681,280494.759
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,280517.617,280519.451
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,280517.617,280519.451
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,280545.981,280549.037
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,280545.981,280549.037
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,18,280579.718,280581.124
+SOCAL34N_sitN_090722_200000.x.wav,D,67,33,280580.207,280584.913
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,67,13,280600.993,280619.022
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,17,280628.434,280630.268
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,280641.635,280644.325
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,17,280657.876,280660.504
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,17,280657.876,280660.504
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,30,16,280670.16,280672.055
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,90,78,280678.411,280692.59
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,67,13,280726.456,280744.424
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,280749.802,280752.797
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,68,46,280720.344,280721.383
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,68,46,280720.344,280721.383
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,280856.356,280858.801
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,36,17,280892.361,280896.334
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,14,280910.696,280913.63
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,20,280916.502,280918.947
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,280923.775,280926.159
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,280963.103,280966.097
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,32,17,280963.103,280966.097
+SOCAL34N_sitN_090722_200000.x.wav,D,65,38,281028.763,281031.819
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,21,280988.487,280990.748
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,21,280988.487,280990.748
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,281041.482,281043.804
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,281041.482,281043.804
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,17,281109.596,281113.141
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,17,281109.596,281113.141
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,16,281125.882,281128.021
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,281156.624,281159.741
+SOCAL34N_sitN_090722_200000.x.wav,D,68,35,281141.1,281143.423
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,68,35,281141.1,281143.423
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,19,281186.042,281188.181
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,13,281232.247,281235.18
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,17,281271.223,281274.218
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,28,281420.809,281437.433
+SOCAL34N_sitN_090722_200000.x.wav,D,52,28,281420.809,281437.433
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,72,34,281415.431,281419.709
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,16,281446.906,281448.984
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,16,281446.906,281448.984
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,281463.102,281464.691
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,281470.207,281472.407
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,281477.297,281478.825
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,281501.688,281503.216
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,281501.688,281503.216
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,16,281535.966,281537.922
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,19,281566.953,281568.97
+SOCAL34N_sitN_090722_200000.x.wav,D,69,42,281515.126,281518.609
+SOCAL34N_sitN_090722_200000.x.wav,D,69,42,281515.126,281518.609
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,67,33,281539.267,281542.506
+SOCAL34N_sitN_090722_200000.x.wav,D,70,30,281575.722,281578.778
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,281590.603,281592.803
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,281590.603,281592.803
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,21,281623.056,281624.889
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,17,281621.528,281623.973
+SOCAL34N_sitN_090722_200000.x.wav,D,33,17,281638.336,281641.147
+SOCAL34N_sitN_090722_200000.x.wav,D,52,27,281674.462,281677.579
+SOCAL34N_sitN_090722_200000.x.wav,D,52,27,281674.462,281677.579
+SOCAL34N_sitN_090722_200000.x.wav,D,51,21,281679.107,281681.612
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,25,281683.262,281685.829
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,281678.487,281680.504
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,281692.849,281695.233
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,281707.396,281709.596
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,281707.396,281709.596
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,281719.68,281722.553
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,281758.105,281760.489
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,41,281844.179,281846.257
+SOCAL34N_sitN_090722_200000.x.wav,D,69,26,281913.155,281916.822
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,69,26,281913.155,281916.822
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,77,282035.012,282052.247
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,282000.908,282003.414
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,282014.293,282016.982
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,21,282030.795,282033.728
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,282048.03,282050.535
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,19,282087.777,282090.1
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,282127.128,282129.083
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,15,282139.412,282141.673
+SOCAL34N_sitN_090722_200000.x.wav,D,72,40,282128.181,282131.971
+SOCAL34N_sitN_090722_200000.x.wav,D,72,40,282128.181,282131.971
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,58,43,282122.375,282124.514
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,282255.196,282257.701
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,282255.196,282257.701
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,36,19,282274.462,282277.151
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,282519.878,282522.078
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,89,77,282553.95,282569.168
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,18,282553.277,282555.6
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,19,282581.467,282584.645
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,282587.701,282589.962
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,35,18,282638.533,282641.1
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,90,77,283042.299,283057.212
+SOCAL34N_sitN_090722_200000.x.wav,D,90,77,283042.299,283057.212
+SOCAL34N_sitN_090722_200000.x.wav,D,57,29,283043.95,283048.167
+SOCAL34N_sitN_090722_200000.x.wav,D,49,26,283234.401,283238.618
+SOCAL34N_sitN_090722_200000.x.wav,D,50,25,283242.957,283245.646
+SOCAL34N_sitN_090722_200000.x.wav,D,50,25,283242.957,283245.646
+SOCAL34N_sitN_090722_200000.x.wav,D,69,47,283270.94,283273.201
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,69,47,283270.94,283273.201
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,283327.8,283328.594
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,92,78,283617.777,283636.478
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,92,78,283617.777,283636.478
+SOCAL34N_sitN_090722_200000.x.wav,D,68,12,283667.984,283685.158
+SOCAL34N_sitN_090722_200000.x.wav,D,65,35,283860.367,283862.811
+SOCAL34N_sitN_090722_200000.x.wav,D,80,37,283907.908,283911.086
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,91,79,283952.14,283969.191
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,68,26,284000.649,284017.395
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,68,26,284000.649,284017.395
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,67,27,284133.216,284149.962
+SOCAL34N_sitN_090722_200000.x.wav,D,71,35,284243.385,284246.929
+SOCAL34N_sitN_090722_200000.x.wav,D,71,35,284243.385,284246.929
+SOCAL34N_sitN_090722_200000.x.wav,D,47,26,284273.338,284275.783
+SOCAL34N_sitN_090722_200000.x.wav,D,47,26,284273.338,284275.783
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,79,284361.222,284378.702
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,71,53,284340.015,284341.115
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,71,53,284340.015,284341.115
+SOCAL34N_sitN_090722_200000.x.wav,D,75,41,284415.539,284419.634
+SOCAL34N_sitN_090722_200000.x.wav,D,71,42,284423.362,284426.846
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,284448.365,284450.32
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,17,284464.561,284465.905
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,284478.801,284480.513
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,284510.466,284511.933
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,69,55,284510.16,284511.444
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,16,284529.098,284530.626
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,284542.055,284544.072
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,33,18,284542.055,284544.072
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,68,53,284604.767,284605.806
+SOCAL34N_sitN_090722_200000.x.wav,D,91,78,284629.343,284645.784
+SOCAL34N_sitN_090722_200000.x.wav,D,89,34,284676.333,284681.1
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,89,34,284676.333,284681.1
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,50,12,284678.304,284694.255
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,13,284731.161,284732.628
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,37,17,284745.402,284747.968
+SOCAL34N_sitN_090722_200000.x.wav,D,67,39,284739.168,284741.49
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,93,77,284754.5,284770.512
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,18,284777.724,284779.558
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,284789.878,284791.834
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,284789.878,284791.834
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,16,284821.284,284823.056
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,15,284807.838,284808.999
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,15,284807.838,284808.999
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,28,17,284836.502,284838.396
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,52,13,284803.437,284822.323
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,93,80,284896.639,284913.018
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,16,284920.413,284922.124
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,16,284934.416,284936.372
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,284955.929,284958.374
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,19,284969.741,284971.758
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,52,13,284946.945,284965.646
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,15,284955.99,284958.251
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,284987.739,284989.328
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,19,285001.552,285003.263
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,18,285003.874,285005.158
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285018.534,285019.878
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285018.534,285019.878
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,285034.302,285036.135
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,285178.091,285179.68
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,14,285204.5,285207.005
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,16,285218.006,285220.084
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,35,17,285248.007,285250.146
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,285263.408,285265.975
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,285263.408,285265.975
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,50,285329.083,285330.0
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,65,50,285329.083,285330.0
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,53,12,285350.099,285367.762
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,285393.804,285396.249
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,285393.804,285396.249
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,285440.856,285443.117
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,285462.675,285464.508
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,285477.151,285479.29
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,285477.151,285479.29
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,51,12,285480.757,285498.114
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,51,12,285480.757,285498.114
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,18,285508.984,285511.49
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,285547.861,285549.817
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,13,285567.602,285569.13
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,13,285567.602,285569.13
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,285610.734,285612.445
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,20,285619.84,285622.041
+SOCAL34N_sitN_090722_200000.x.wav,D,57,29,285621.307,285624.669
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,66,13,285606.211,285619.351
+SOCAL34N_sitN_090722_200000.x.wav,A NE Pacific,91,76,285694.256,285711.552
+SOCAL34N_sitN_090722_200000.x.wav,B NE Pacific,91,76,285694.256,285711.552
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,66,12,285745.195,285763.103
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,285777.387,285779.281
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,285800.856,285802.873
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,285800.856,285802.873
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,17,285846.823,285848.595
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,285869.375,285871.575
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,15,285869.375,285871.575
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,17,285901.139,285903.217
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,15,285920.024,285921.735
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,285934.508,285936.464
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,18,285941.711,285942.995
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,285955.157,285956.929
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285970.0,285972.75
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,285970.0,285972.75
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,17,286005.416,286007.372
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,286025.829,286028.58
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,26,14,286025.829,286028.58
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,16,286155.058,286156.892
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286169.198,286171.215
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286169.198,286171.215
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286214.364,286215.831
+SOCAL34N_sitN_090722_200000.x.wav,D,29,18,286214.364,286215.831
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,70,38,286307.044,286310.467
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,286432.903,286434.798
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,286461.75,286464.134
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,286461.75,286464.134
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,27,14,286480.758,286483.141
+SOCAL34N_sitN_090722_200000.x.wav,D,57,34,286788.595,286790.673
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,286884.492,286886.448
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,286904.294,286906.372
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,15,286904.294,286906.372
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,14,286937.12,286938.832
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,286950.811,286953.133
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,17,286950.811,286953.133
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,18,286978.191,286979.903
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,25,15,287027.35,287028.756
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,18,287040.429,287042.324
+SOCAL34N_sitN_090722_200000.x.wav,D,31,18,287040.429,287042.324
+SOCAL34N_sitN_090722_200000.x.wav,D,31,18,287040.429,287042.324
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,19,287069.795,287071.384
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,14,287088.007,287089.719
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,287139.955,287142.094
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,18,287139.955,287142.094
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,24,13,287189.589,287191.483
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,287545.738,287548.488
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,30,18,287545.738,287548.488
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,32,18,287579.169,287581.492
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,68,53,287565.785,287566.579
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,19,287630.613,287632.507
+SOCAL34N_sitN_090722_200000.x.wav,D,68,26,287611.116,287615.7
+SOCAL34N_sitN_090722_200000.x.wav,D,68,26,287611.116,287615.7
+SOCAL34N_sitN_090722_200000.x.wav,D,82,36,287634.647,287638.802
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,28,29,287663.339,287665.784
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,20,287663.217,287664.928
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,29,29,287729.856,287729.917
+SOCAL34N_sitN_090722_200000.x.wav,D,62,25,287718.672,287723.683
+SOCAL34N_sitN_090722_200000.x.wav,D,68,43,287762.056,287765.112
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,34,20,287797.106,287798.878
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,20,288200.91,288202.865
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,33,20,288200.91,288202.865
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,32,17,288213.011,288214.783
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,20,288473.049,288474.699
+SOCAL34N_sitN_090722_200000.x.wav,20Hz,31,20,288473.049,288474.699
+SOCAL34N_sitN_090722_200000.x.wav,40Hz,73,47,290898.144,290899.795
+SOCAL34N_sitN_090722_200000.x.wav,D,80,50,291681.812,291684.562
+SOCAL34N_sitN_090722_200000.x.wav,D,71,49,291831.986,291834.248

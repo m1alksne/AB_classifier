@@ -47,10 +47,12 @@ import torch
 import random
 import sys
 
+from config import repo_path
+
 # read in datasets
 
-DCPP01A = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\logs\\modified_annotations\\DCPP01A_logs_from_cv4e_modification.csv')
-SOCAL34N = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\logs\\modified_annotations\\MoreConservativeSOCAL34N_modification.csv')
+DCPP01A = pd.read_csv(repo_path/'labeled_data'/'logs'/'modified_annotations'/'DCPP01A_logs_from_cv4e_modification.csv')
+SOCAL34N = pd.read_csv(repo_path/'labeled_data'/'logs'/'modified_annotations'/'MoreConservativeSOCAL34N_modification.csv')
 
 # Filter rows for training set where 'audio_file' column does not equal 'DCPP01A_d01_121106_083945.d100.x.wav'
 train_annotations = DCPP01A[~DCPP01A['audio_file'].str.contains('DCPP01A_d01_121106_083945.d100.x.wav')]
@@ -89,8 +91,8 @@ train_clips_noise = train_clips.iloc[random_noise_indices] # subset by these ind
 train_clips_final = pd.concat([balanced_train_clips, train_clips_noise]) # concatenate dataframes
 
 # save dataframes
-train_clips_final.to_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\train_clips.csv')
-balanced_val_clips.to_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\val_clips_balanced.csv')  
-test_clips.to_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\test_clips.csv')
+train_clips_final.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'train_clips.csv')
+balanced_val_clips.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'val_clips_balanced.csv')
+test_clips.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'test_clips.csv')
 
 

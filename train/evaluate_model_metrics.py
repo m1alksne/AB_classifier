@@ -30,8 +30,8 @@ from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, average_precision_score
 
 
-train_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\train_clips.csv', index_col=[0,1,2]) 
-val_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\val_clips.csv', index_col=[0,1,2]) 
+train_clips = pd.read_csv(repo_path/labeled_data/train_val_test_clips/train_clips.csv', index_col=[0,1,2]) 
+val_clips = pd.read_csv(repo_path/labeled_data/train_val_test_clips/val_clips.csv', index_col=[0,1,2]) 
 
 # Load train and validation datasets
 
@@ -44,7 +44,7 @@ val_ap_B_history = []
 # Iterate over each epoch of the saved model
 for epoch in range(11):  # assuming you have 11 epochs
     # Load the model for the current epoch
-    model_path = f'L:\\HARP_CNN\\AB_classifier\\train\\model_states\\epoch-{epoch}.model'
+    model_path = repo_path/train/model_states/epoch-{epoch}.model'
     model = opensoundscape.ml.cnn.load_model(model_path)
     
     # Make predictions on the training dataset

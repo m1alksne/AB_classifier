@@ -48,15 +48,17 @@ import torch
 import wandb
 import random
 
+from config import repo_path
+
 # read in train and validation dataframes
-train_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\train_clips.csv', index_col=[0,1,2]) 
-val_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\val_clips.csv', index_col=[0,1,2]) 
+train_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'train_clips.csv', index_col=[0,1,2])
+val_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'val_clips.csv', index_col=[0,1,2])
 print(train_clips.sum()) 
 print(val_clips.sum())
 
 calls_of_interest = ["A NE Pacific", "B NE Pacific"] #define the calls for CNN
 model = opensoundscape.CNN('resnet18',classes=calls_of_interest,sample_duration=30.0, single_target=False) # create a CNN object designed to recognize 30-second samples
-opensoundscape.ml.cnn.use_resample_loss(model) # loss function for mult-target classification
+opensoundscape.ml.cnn.use_resample_loss(model, train_df=train_clips) # loss function for mult-target classification
 
 # moodify model preprocessing for making spectrograms the way I want them
 model.preprocessor.pipeline.to_spec.params.window_type = 'hamming'
@@ -78,10 +80,10 @@ model.lr_cooling_factor = 0.3
 model.wandb_logging['n_preview_samples']=100 # number of samples to look at in wandB
 
 
-wandb_session = wandb.init( #initialize wandb logging 
-        entity='BigBlueWhale', #replace with your entity/group name
-        project='Sonobuoy Model',
-        name='Trial 9: 30 second windows')
+# wandb_session = wandb.init( #initialize wandb logging
+#         entity='BigBlueWhale', #replace with your entity/group name
+#         project='Sonobuoy Model',
+#         name='Trial 9: 30 second windows')
 
 model.train(
     train_clips, 
@@ -92,6 +94,6 @@ model.train(
     num_workers = 12, 
     #wandb_session=wandb_session,
     save_interval = 1, #save checkpoint every 1 epoch
-    save_path = 'L:\\HARP_CNN\\AB_classifier\\train\\model_states' #location to save checkpoints (epochs)
+    save_path = repo_path/'train'/'model_states' #location to save checkpoints (epochs)
 )
 
