@@ -29,6 +29,12 @@ import random
 from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, average_precision_score
 
+# Add the parent directory to sys.path
+from pathlib import Path
+import sys
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
+# import config values
 from config import repo_path, xwavs_path
 
 train_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'train_clips.csv')
