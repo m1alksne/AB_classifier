@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: sergey-abc
+  labels:
+    app: sergey-abcx
+spec:
+  containers:
+    - name: ecoviz-abc
+      image: segurvich/ecoviz_abc:minimal
+      imagePullPolicy: IfNotPresent
+      resources:
+        limits:
+          nvidia.com/gpu: 1
+  restartPolicy: Always
+  
