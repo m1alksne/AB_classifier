@@ -3,11 +3,11 @@ kind: Pod
 metadata:
   name: sergey-abc
   labels:
-    app: sergey-abcx
+    app: sergey-abc
 spec:
   containers:
     - name: ecoviz-abc
-      image: segurvich/ecoviz_abc:minimal
+      image: segurvich/ecoviz_abc:latest
       imagePullPolicy: IfNotPresent
       resources:
         limits:
