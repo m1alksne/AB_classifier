@@ -50,4 +50,4 @@ http://127.0.0.1:8888/lab/tree/EcoViz_CLIP/EcoViz_CLIP_model.ipynb
 ### 9. Add data, modify paths in config file, if needed
 
 ### 10. Tear down:
-`kubectl delete -f  EcoViz_CLIP.yaml`
+`kubectl delete -f  EcoViz_AB_classifier.yaml`

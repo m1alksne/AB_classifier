@@ -12,5 +12,8 @@ spec:
       resources:
         limits:
           nvidia.com/gpu: 1
+          memory: "16Gi"  # Set memory limit to 2 GiB
+        requests:
+          memory: "16Gi"  # Request 1 GiB of memory
   restartPolicy: Always
   
