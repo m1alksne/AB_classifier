@@ -57,22 +57,22 @@ from config import repo_path
 
 # read in datasets
 
-DCPP01A = pd.read_csv(repo_path/'labeled_data'/'logs'/'modified_annotations'/'DCPP01A_logs_from_cv4e_modification.csv')
-SOCAL34N = pd.read_csv(repo_path/'labeled_data'/'logs'/'modified_annotations'/'MoreConservativeSOCAL34N_modification.csv')
+DCPP01A = pd.read_csv(repo_path/'labeled_data'/'logs'/'modified_annotations'/'DCPP01A_logs_modification.csv')
+CINMS18B = pd.read_csv(repo_path/'labeled_data'/'logs'/'modified_annotations'/'CINMS18B_logs_modification.csv')
 
 # Filter rows for training set where 'audio_file' column does not equal 'DCPP01A_d01_121106_083945.d100.x.wav'
 train_annotations = DCPP01A[~DCPP01A['audio_file'].str.contains('DCPP01A_d01_121106_083945.d100.x.wav')]
 # Filter rows for validation set where 'audio_file' column contains 'DCPP01A_d01_121106_083945.d100.x.wav'
 val_annotations = DCPP01A[DCPP01A['audio_file'].str.contains('DCPP01A_d01_121106_083945.d100.x.wav')]
 
-test_annotations = SOCAL34N
+test_annotations = CINMS18B
 
-# count up all the calls 
-train_call_counts = train_annotations['annotation'].value_counts() 
+# count up all the calls
+train_call_counts = train_annotations['annotation'].value_counts()
 print(train_call_counts)
-val_call_counts = val_annotations['annotation'].value_counts()  
+val_call_counts = val_annotations['annotation'].value_counts()
 print(val_call_counts)
-test_call_counts = test_annotations['annotation'].value_counts() 
+test_call_counts = test_annotations['annotation'].value_counts()
 print(test_call_counts)
 
 # make boxed annotations
@@ -82,10 +82,10 @@ val_annotations_box = opensoundscape.BoxedAnnotations(val_annotations)
 test_annotations_box = opensoundscape.BoxedAnnotations(test_annotations)
 
 # make hot clips
-train_clips = train_annotations_box.one_hot_clip_labels(clip_duration=30, clip_overlap=10, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
+train_clips = train_annotations_box.one_hot_clip_labels(audio_files=train_annotations_box.df['audio_file'].unique(), clip_duration=30, clip_overlap=10, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
 print(train_clips.sum())
-val_clips = val_annotations_box.one_hot_clip_labels(clip_duration=30,clip_overlap=0, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
-test_clips = test_annotations_box.one_hot_clip_labels(clip_duration=30, clip_overlap=0, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
+val_clips = val_annotations_box.one_hot_clip_labels(audio_files=val_annotations_box.df['audio_file'].unique(), clip_duration=30,clip_overlap=10, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
+test_clips = test_annotations_box.one_hot_clip_labels(audio_files=test_annotations_box.df['audio_file'].unique(), clip_duration=30, clip_overlap=10, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
 balanced_train_clips = opensoundscape.data_selection.resample(train_clips,n_samples_per_class=1000,random_state=0) # upsample (repeat samples) so that all classes have 1000 samples
 balanced_val_clips = opensoundscape.data_selection.resample(val_clips,n_samples_per_class=200,random_state=0) # upsample (repeat samples) so that all classes have 400 samples
 
@@ -98,7 +98,5 @@ train_clips_final = pd.concat([balanced_train_clips, train_clips_noise]) # conca
 
 # save dataframes
 train_clips_final.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'train_clips.csv')
-balanced_val_clips.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'val_clips_balanced.csv')
+balanced_val_clips.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'val_clips.csv')
 test_clips.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'test_clips.csv')
-
-
