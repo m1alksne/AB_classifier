@@ -32,10 +32,10 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 
 
 # read in train and validation dataframes
-test_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\test_clips.csv', index_col=[0,1,2]) 
+test_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\train_val_test_clips\\test_clips.csv', index_col=[0,1,2]) 
 print(test_clips.sum())
 
-model = opensoundscape.ml.cnn.load_model('L:\\HARP_CNN\\AB_classifier\\train\model_states\\best.model')
+model = opensoundscape.ml.cnn.load_model('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\train\model_states\\best.model')
 
 # moodify model preprocessing for making spectrograms with proper resolution
 model.preprocessor.pipeline.to_spec.params.window_type = 'hamming' # using hamming window
@@ -49,7 +49,7 @@ test_scores = model.predict(test_clips, num_workers=12,batch_size=128)
 test_scores.columns = ['pred_A','pred_B']
 test_all = test_clips.join(test_scores)
 #save output 
-test_all.to_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\test_clips_prediction.csv')
+test_all.to_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\train_val_test_clips\\SOCAL34N_predictions.csv')
 
 ## A CALLS ###
 
@@ -74,7 +74,7 @@ plt.hist(A_eval['pred_A'],bins=40,alpha=0.5,edgecolor='black',color='orange',lab
 plt.xlabel('Value')
 plt.ylabel('Frequency')
 plt.semilogy()
-plt.title('A call prediction scores val data')
+plt.title('A call prediction scores SOCAL34N data')
 plt.legend(loc='upper right')
 
 
@@ -101,5 +101,5 @@ plt.hist(B_eval['pred_B'],bins=40,alpha=0.5,edgecolor='black',color='orange',lab
 plt.xlabel('Value')
 plt.ylabel('Frequency')
 plt.semilogy()
-plt.title('B call prediction scores val data')
+plt.title('B call prediction scores SOCAL34N data')
 plt.legend(loc='upper right')

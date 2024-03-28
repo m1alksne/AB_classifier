@@ -49,8 +49,8 @@ import sys
 
 # read in datasets
 
-DCPP01A = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\logs\\modified_annotations\\DCPP01A_logs_from_cv4e_modification.csv')
-SOCAL34N = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\logs\\modified_annotations\\MoreConservativeSOCAL34N_modification.csv')
+DCPP01A = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\logs\\modified_annotations\\DCPP01A_logs_modification.csv')
+SOCAL34N = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\logs\\modified_annotations\\SOCAL34N_modification.csv')
 
 # Filter rows for training set where 'audio_file' column does not equal 'DCPP01A_d01_121106_083945.d100.x.wav'
 train_annotations = DCPP01A[~DCPP01A['audio_file'].str.contains('DCPP01A_d01_121106_083945.d100.x.wav')]
@@ -79,6 +79,7 @@ print(train_clips.sum())
 val_clips = val_annotations_box.one_hot_clip_labels(clip_duration=30,clip_overlap=0, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
 test_clips = test_annotations_box.one_hot_clip_labels(clip_duration=30, clip_overlap=0, min_label_overlap=5, class_subset=['A NE Pacific', 'B NE Pacific'])
 balanced_train_clips = opensoundscape.data_selection.resample(train_clips,n_samples_per_class=1000,random_state=0) # upsample (repeat samples) so that all classes have 1000 samples
+print(balanced_train_clips.sum())
 balanced_val_clips = opensoundscape.data_selection.resample(val_clips,n_samples_per_class=200,random_state=0) # upsample (repeat samples) so that all classes have 400 samples
 
 # add empty spectrograms to training data so the model learns what is "not" a call
@@ -91,6 +92,6 @@ train_clips_final = pd.concat([balanced_train_clips, train_clips_noise]) # conca
 # save dataframes
 train_clips_final.to_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\train_clips.csv')
 balanced_val_clips.to_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\val_clips_balanced.csv')  
-test_clips.to_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\test_clips.csv')
+test_clips.to_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\train_val_test_clips\\test_clips_unedited.csv')
 
 

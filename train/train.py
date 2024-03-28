@@ -49,14 +49,14 @@ import wandb
 import random
 
 # read in train and validation dataframes
-train_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\train_clips.csv', index_col=[0,1,2]) 
-val_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\labeled_data\\train_val_test_clips\\val_clips.csv', index_col=[0,1,2]) 
+train_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\train_val_test_clips\\train_clips.csv', index_col=[0,1,2]) 
+val_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\train_val_test_clips\\val_clips.csv', index_col=[0,1,2]) 
 print(train_clips.sum()) 
 print(val_clips.sum())
 
 calls_of_interest = ["A NE Pacific", "B NE Pacific"] #define the calls for CNN
 model = opensoundscape.CNN('resnet18',classes=calls_of_interest,sample_duration=30.0, single_target=False) # create a CNN object designed to recognize 30-second samples
-opensoundscape.ml.cnn.use_resample_loss(model) # loss function for mult-target classification
+opensoundscape.ml.cnn.use_resample_loss(model, train_df = train_clips) # loss function for mult-target classification
 
 # moodify model preprocessing for making spectrograms the way I want them
 model.preprocessor.pipeline.to_spec.params.window_type = 'hamming'
@@ -80,8 +80,8 @@ model.wandb_logging['n_preview_samples']=100 # number of samples to look at in w
 
 wandb_session = wandb.init( #initialize wandb logging 
         entity='BigBlueWhale', #replace with your entity/group name
-        project='Sonobuoy Model',
-        name='Trial 9: 30 second windows')
+        project='AB Classifier',
+        name='Trial 1: 30 second windows')
 
 model.train(
     train_clips, 
