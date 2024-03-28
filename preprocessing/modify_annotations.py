@@ -28,7 +28,6 @@ from pathlib import Path
 import sys
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
-
 # import config values
 from config import repo_path, xwavs_path
 
