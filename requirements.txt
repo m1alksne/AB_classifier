@@ -1,1 +1,3 @@
-opensoundscape
+tensorflow==2.13.0 
+tensorboard==2.13.0 
+opensoundscape == v0.10.0

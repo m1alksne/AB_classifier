@@ -22,12 +22,14 @@ from opensoundscape import Audio, Spectrogram
 import random
 import pandas as pd
 import numpy as np
+import xlrd
 
 # Add the parent directory to sys.path
 from pathlib import Path
 import sys
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
+#sys.path.append("L:\HARP_CNN\AB_classifier\AB_classifier")
 # import config values
 from config import repo_path, xwavs_path
 
@@ -37,7 +39,8 @@ from AudioStreamDescriptor import XWAVhdr
 directory_path = repo_path / 'labeled_data' / 'logs'  # point to original logger files
 all_files = glob.glob(os.path.join(directory_path, '*.xls'))  # path for all files
 
-new_base_path = str(xwavs_path) + '/'  # path to change to
+#new_base_path = str(xwavs_path) + '/'  # path to change to
+new_base_path = str(xwavs_path) + '\\'  # path to change to
 
 
 # hepler function uses XWAVhdr to read xwav file header info and extract xwav file start time as a datetime object

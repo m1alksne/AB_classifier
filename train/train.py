@@ -58,11 +58,11 @@ from config import repo_path, xwavs_path
 
 # read in train and validation dataframes
 train_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'train_clips.csv')
-train_clips['file'] = str(xwavs_path) + '/' + train_clips['file']
+#train_clips['file'] = str(xwavs_path) + '/' + train_clips['file']
 train_clips.set_index(['file', 'start_time', 'end_time'], inplace=True)
 
 val_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'val_clips.csv')
-val_clips['file'] = str(xwavs_path) + '/' + val_clips['file']
+#val_clips['file'] = str(xwavs_path) + '/' + val_clips['file']
 val_clips.set_index(['file', 'start_time', 'end_time'], inplace=True)
 
 print(train_clips.sum())
