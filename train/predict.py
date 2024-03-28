@@ -30,12 +30,21 @@ from scipy.special import expit
 from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
+# Add the parent directory to sys.path
+from pathlib import Path
+import sys
+sys.path.append(str(Path(__file__).resolve().parent.parent))
+
+# import config values
+from config import repo_path, xwavs_path
 
 # read in train and validation dataframes
-test_clips = pd.read_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\train_val_test_clips\\test_clips.csv', index_col=[0,1,2]) 
+test_clips = pd.read_csv(repo_path/'labeled_data'/'train_val_test_clips'/'test_clips.csv')
+test_clips['file'] = str(xwavs_path) + '/' + test_clips['file']
+test_clips.set_index(['file', 'start_time', 'end_time'], inplace=True)
 print(test_clips.sum())
 
-model = opensoundscape.ml.cnn.load_model('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\train\model_states\\best.model')
+model = opensoundscape.ml.cnn.load_model(repo_path/'train'/'model_states'/'best.model')
 
 # moodify model preprocessing for making spectrograms with proper resolution
 model.preprocessor.pipeline.to_spec.params.window_type = 'hamming' # using hamming window
@@ -49,7 +58,7 @@ test_scores = model.predict(test_clips, num_workers=12,batch_size=128)
 test_scores.columns = ['pred_A','pred_B']
 test_all = test_clips.join(test_scores)
 #save output 
-test_all.to_csv('L:\\HARP_CNN\\AB_classifier\\AB_classifier\\labeled_data\\train_val_test_clips\\SOCAL34N_predictions.csv')
+test_all.to_csv(repo_path/'labeled_data'/'train_val_test_clips'/'test_clips_prediction.csv')
 
 ## A CALLS ###
 
